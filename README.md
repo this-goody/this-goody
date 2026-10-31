@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm goody</h1>
+<h1 align="center">Hello! I'am goody</h1>
 
 <p align="center">
   Backend Developer<br>
