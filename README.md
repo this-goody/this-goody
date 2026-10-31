@@ -1,4 +1,6 @@
-<h1 align="center">Hello! I'am goody</h1>
+<h1 align="center">
+  𝐇𝐞𝐥𝐥𝐨, I'm goody! 👋
+</h1>
 
 <p align="center">
   Backend Developer<br>
@@ -10,4 +12,3 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=go,python,postgres,nginx,linux,git,github&theme=dark" />
 </p>
-
